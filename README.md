@@ -1,24 +1,29 @@
-# lostnfoundwebsite
+# LostandFound Web Application
 
-## Project setup
-```
-npm install
-```
+About the Application
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This app provides a valuable solution for individuals who have lost items by offering a simple and efficient platform to connect them with people who have found those items.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Features
 
-### Lints and fixes files
-```
-npm run lint
-```
+Create posts for lost and found items.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Searching and Filtering products by location or name, categories.
+
+Edit and delete features of the post.
+
+Login and Authentication.
+
+Matching algorithm for the lost and found product.
+
+How to run the application?
+
+Download the repository.
+
+Change the directory to the repository folder.
+
+Run two terminals from the repository folder.
+
+To run the application, enter npm run serve in one of the terminals.
+
+In the other terminal, enter npm run db to initialise and run the database.
